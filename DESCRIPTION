@@ -1,6 +1,6 @@
 Package: maqcExpression4plex
 Title: Sample Expression Data - MAQC / HG18 - NimbleGen
-Version: 1.2
+Version: 1.2.0
 Date: 2007-04-04
 Author: NimbleGen Systems
 Suggests: oligo, makePlatformDesign
