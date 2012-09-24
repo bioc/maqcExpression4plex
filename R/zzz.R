@@ -1,5 +1,5 @@
-.onLoad <- function(libname, pkgname) {
-  message(paste("/-------------------------------------------\\",
+.onAttach <- function(libname, pkgname) {
+  packageStartupMessage(paste("/-------------------------------------------\\",
                 "| SAMPLE EXPRESSION DATA - MAQC/ HG18 - NGS |",
                 "|-------------------------------------------|",
                 "| Data provided by NimbleGen Systems (NGS). |",
