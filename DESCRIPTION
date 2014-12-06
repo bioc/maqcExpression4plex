@@ -1,9 +1,9 @@
 Package: maqcExpression4plex
 Title: Sample Expression Data - MAQC / HG18 - NimbleGen
-Version: 1.11.0
+Version: 1.11.1
 Author: NimbleGen Systems
 Suggests: oligo, pdInfoBuilder
 Maintainer: Benilton Carvalho <Benilton.Carvalho@cancer.org.uk>
 Description: Data from human (HG18) 4plex NimbleGen array. It has 24k genes with 3 60mer probes per gene.
-biocViews: ExperimentData
+biocViews: ExperimentData, CancerData
 License: GPL
